@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!-
+<!--
 **FernandoCano193/FernandoCano193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](Logo.png)
 
 Mi nombre es José Fernando Cano Pacheco, soy estudiante del Instituto Tecnologico de Tijuana ITT
 
