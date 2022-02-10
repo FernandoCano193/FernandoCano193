@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 Mi nombre es José Fernando Cano Pacheco, soy estudiante del Instituto Tecnologico de Tijuana ITT
 
 Cosas sobre mí:
--
 
+
+
+- 🎒 Actualmente me encuentro cursando el 6to Semestres de la Ing. Sistemas Computacionales.
+- 🖥️ Actualemnete me estoy iniciando aprender nuevas habilidades en cuanto al desarrollo web y aplicaciones móviles.
+- 🤓 Entre mis pasatiempos esta aprender Ingles.
+- 💻 Me gusta todo lo refenrente a la tecnología.
 
 | Hora  |             **Lunes**            |            **Martes**            |           **Miércoles**          |            **Jueves**            |            **Viernes**           |
 |-------|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
