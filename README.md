@@ -23,16 +23,9 @@ Cosas sobre mí:
 
 
 
-- 🎒 Actualmente me encuentro cursando el 6to Semestres de la Ing. Sistemas Computacionales.
-- 🖥️ Actualemnete me estoy iniciando aprender nuevas habilidades en cuanto al desarrollo web y aplicaciones móviles.
+- 🎒 Actualmente me encuentro cursando el 7mo Semestres de la Ing. Sistemas Computacionales.
+- 🖥️ Actualmenete me estoy iniciando aprender nuevas habilidades en cuanto al desarrollo web y aplicaciones móviles.
 - 🤓 Entre mis pasatiempos esta aprender Ingles.
-- 💻 Me gusta todo lo refenrente a la tecnología.
+- 💻 Me gusta todo lo referente a la tecnología.
 
-| Hora  |             **Lunes**            |            **Martes**            |           **Miércoles**          |            **Jueves**            |            **Viernes**           |
-|-------|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|:--------------------------------:|
-| 13:00 | ADMINISTRACIÓN DE BASE  DE DATOS | ADMINISTRACIÓN DE BASE  DE DATOS | ADMINISTRACIÓN DE BASE  DE DATOS | ADMINISTRACIÓN DE BASE  DE DATOS | ADMINISTRACIÓN DE BASE  DE DATOS |
-| 14:00 |      INGENIERÍA DE SOFTWARE      |      INGENIERÍA DE SOFTWARE      |      INGENIERÍA DE SOFTWARE      |      INGENIERÍA DE SOFTWARE      |      INGENIERÍA DE SOFTWARE      |
-| 15:00 |      LENGUAJES Y AUTOMATAS I     |      LENGUAJES Y AUTOMATAS I     |      LENGUAJES Y AUTOMATAS I     |      LENGUAJES Y AUTOMATAS I     |      LENGUAJES Y AUTOMATAS I     |
-| 16:00 |       LENGUAJES DE INTERFAZ      |       LENGUAJES DE INTERFAZ      |       LENGUAJES DE INTERFAZ      |       LENGUAJES DE INTERFAZ      |                                  |
-| 17:00 |  TALLER DE SISTEMAS  OPERATIVOS  |  TALLER DE SISTEMAS  OPERATIVOS  |  TALLER DE SISTEMAS  OPERATIVOS  |  TALLER DE SISTEMAS  OPERATIVOS  |                                  |
-| 18:00 |       REDES DE COMPUTADORAS      |       REDES DE COMPUTADORAS      |       REDES DE COMPUTADORAS      |       REDES DE COMPUTADORAS      |       REDES DE COMPUTADORAS      |
+
