@@ -23,9 +23,9 @@ Cosas sobre mí:
 
 
 
-- 🎒 Actualmente me encuentro cursando el 7mo Semestres de la Ing. Sistemas Computacionales.
-- 🖥️ Actualmenete me estoy iniciando aprender nuevas habilidades en cuanto al desarrollo web y aplicaciones móviles.
-- 🤓 Entre mis pasatiempos esta aprender Ingles.
+- 🎒 Actualmente me encuentro cursando el 7mo semestre de la Ing. Sistemas Computacionales.
+- 🖥️ Actualmente estoy iniciando aprender nuevas habilidades en cuanto al desarrollo web y aplicaciones móviles.
+- 🤓 Entre mis pasatiempos esta aprender Inglés.
 - 💻 Me gusta todo lo referente a la tecnología.
 
 
