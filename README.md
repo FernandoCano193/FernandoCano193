@@ -1,8 +1,23 @@
-# 💫 About Me:
-Actualmente me encuentro trabajando como desarrollador web y móvil
-Me apasiona el mundo tecnológico
-Actualmente estoy aprendiendo Angular y Java
+<h1 align="center"><b>Hi , I'm Fernando Cano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+# 💫 About Me:
+I'm a web and mobile developer in constant evolution, currently learning **Angular** and **.NET**. I'm passionate about the tech world, building useful solutions, and exploring new tool that improve the development experience.
+
+🔧 I work with both frontend and backend technologies.
+<br>
+📱 Focused on cross-platform development.
+<br>
+🚀 Always ready for new challanges and professional growth.
+<br>
+💡 Lover of clean code and best parctices.
+<br>
+📚 Always learning and growing.
+<br>
+🤝 I enjoy collaborating and adding value to project.
+<br>
+🌐 Dreaming of becoming a solid full stack developer.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernando-cano-webdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernandocano981@gmail.com) 
